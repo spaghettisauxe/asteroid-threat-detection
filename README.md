@@ -8,6 +8,8 @@ approach data from 2015 to 2035.
 - Model: Logistic Regression
 - Impact Recall: 100%
 - Overall Accuracy: 96%
+- Impact Precision: 35% (intentionally cautious: false alarms 
+  are acceptable, missed impacts are not)
 
 ## Features Used
 - Distance in lunar units
